@@ -24,7 +24,10 @@ print(a[3])
 print(a[-1])
 
 
-
-
-
+b = ['hello','goodbye', 'hey']
+print(b)
+temp = b[0]
+b[0] = b[2]
+b[2] = temp
+print(b)
 

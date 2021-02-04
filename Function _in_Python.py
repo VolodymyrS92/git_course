@@ -31,4 +31,3 @@ def function7(x):
     return 3*x
 a = function7(10)
 print(a)
-
