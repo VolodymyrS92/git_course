@@ -17,7 +17,7 @@ for e in b:
 print(total_sum)
 range(1, 5)
 print(range(1, 5))
-print(list(range(1, 5)))
+print(list(range(1, 5)))     # range функція яка виконує певний заданий діапазон в списку
 
 for i in range(1, 5):
     print(i)
@@ -90,6 +90,7 @@ for i in range(0, 4):
 for i in range(len(names)):
     for J in range( i + 1):
         print(names[i])
+
 
 
 
