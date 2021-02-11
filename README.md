@@ -1,1 +1,1 @@
-#  Гіт курс та гіт 
+#  Github and Git test course
