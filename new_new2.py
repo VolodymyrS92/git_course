@@ -10,3 +10,7 @@
 # git add - додавання файлу до ГІТ
 # git init, git merge ... name 'branch'
 print('hello world')
+a = 3
+print (a)
+print('print')
+
