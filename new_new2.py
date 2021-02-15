@@ -9,3 +9,4 @@
 # git commit - закидання даних до ГІТ
 # git add - додавання файлу до ГІТ
 # git init, git merge ... name 'branch'
+print('hello world')
